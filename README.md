@@ -28,3 +28,6 @@ The GEAR web applications are hosted at [https://www.gear-genomics.com/](https:/
 
 **Abbreviations:** QC: Quality control, CLI: Command-line interface, InDels: Insertions and Deletions, MSA: Multiple sequence alignment, ISS: In situ sequencing
 
+## Software tarballs
+
+The software tarballs are in the [software subdirectory](https://github.com/gear-genomics/nar-paper/tree/main/software).
