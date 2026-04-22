@@ -4,7 +4,7 @@ This repository provides a GEAR web application snapshot for all the tools inclu
 
 ## GEAR web applications
 
-The GEAR web applications are hosted at https://www.gear-genomics.com/<app>/
+The GEAR web applications are hosted at https://www.gear-genomics.com/\<app\>/
 
 | App URL | Purpose | Input(s) | Output(s) | Backend service |
 |---|---|---|---|---|
