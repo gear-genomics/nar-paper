@@ -1,10 +1,10 @@
 # GEAR Genomics: a user-friendly, open-source web platform enabling interactive genomic analysis for molecular biologists
-
+11;rgb:1717/1414/2121
 This repository provides a GEAR web application snapshot for all the tools included in the publication.
 
 ## GEAR web applications
 
-The GEAR web applications are hosted at https://www.gear-genomics.com/\<app\>/
+The GEAR web applications are hosted at [https://www.gear-genomics.com/](https://www.gear-genomics.com/) with the following App URLs.
 
 | App URL | Purpose | Input(s) | Output(s) | Backend service |
 |---|---|---|---|---|
