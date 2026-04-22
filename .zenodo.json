@@ -1,0 +1,34 @@
+{
+    "creators": [
+	{
+	    "affiliation": "European Molecular Biology Laboratory (EMBL)",
+	    "name": "Untergasser, Andreas"
+	},
+	{
+	    "affiliation": "European Molecular Biology Laboratory (EMBL)",
+	    "name": "Fritz, Markus Hsi-Yang"
+	},
+	{
+	    "orcid": "0000-0002-0352-2547",
+	    "affiliation": "European Molecular Biology Laboratory (EMBL)",
+	    "name": "Benes, Vladimir"
+	},
+	{
+	    "orcid": "0000-0001-5773-5620",
+	    "affiliation": "European Molecular Biology Laboratory (EMBL)",
+	    "name": "Rausch, Tobias"
+	}
+    ],
+    "title": "GEAR Genomics: a user-friendly, open-source web platform enabling interactive genomic analysis for molecular biologists",
+    "upload_type": "dataset",
+    "description": "The GEAR web applications are hosted at <a href=\"https://www.gear-genomics.com/\">www.gear-genomics.com</a>. This repository provides a GEAR web application snapshot for all the tools included in the publication.",
+    "keywords": [
+	"web-server",
+	"gear-genomics",
+	"genomics",
+	"sanger-sequencing",
+	"pcr",
+	"primer-design",
+	"sanger-chromatogram"
+    ]
+}
