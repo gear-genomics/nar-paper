@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1217992429.svg)](https://doi.org/10.5281/zenodo.19705066)
+[![GitHub Releases](https://img.shields.io/github/release/gear-genomics/nar-paper.svg)](https://github.com/gear-genomics/nar-paper/releases)
+
 # GEAR Genomics: a user-friendly, open-source web platform enabling interactive genomic analysis for molecular biologists
 
 This repository provides a GEAR web application snapshot for all the tools included in the publication.
