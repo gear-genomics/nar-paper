@@ -3,7 +3,12 @@
 
 # GEAR Genomics: a user-friendly, open-source web platform enabling interactive genomic analysis for molecular biologists
 
-This repository provides a GEAR web application snapshot for all the tools included in the publication and deposited on [Zenodo](https://doi.org/10.5281/zenodo.19705066).
+This repository provides a GEAR web application snapshot for all the tools included in the [main GEAR publication](https://doi.org/10.1093/nar/gkag445). The snapshots are deposited on [Zenodo](https://doi.org/10.5281/zenodo.19705066).
+
+Andreas Untergasser, Markus Hsi-Yang Fritz, Vladimir Benes, Tobias Rausch      
+GEAR Genomics: a user-friendly, open-source web platform enabling interactive genomic analysis for molecular biologists     
+Nucleic Acids Res. 2026 May 11:gkag445.        
+doi: [10.1093/nar/gkag445](https://doi.org/10.1093/nar/gkag445)     
 
 ## GEAR web applications
 
